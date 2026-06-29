@@ -1,5 +1,9 @@
 # AI Research Agent
 
+## Live Demo
+
+**https://ai-research-agent-3z77.onrender.com**
+
 An autonomous AI agent powered by **LLaMA 3.1** and **Groq** that can search the web, look up Wikipedia, and perform calculations in real time to answer any question.
 
 ## Demo
